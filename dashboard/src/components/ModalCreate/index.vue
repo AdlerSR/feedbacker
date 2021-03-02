@@ -1,5 +1,5 @@
 <template>
-  <h1>feedbacks</h1>
+  <h1>Modal de teste</h1>
 </template>
 
 <script>
